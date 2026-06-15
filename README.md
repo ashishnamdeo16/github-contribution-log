@@ -154,6 +154,14 @@ Success criteria:
 - Identified files using Material UI components.
 - Researched available Backstage UI component equivalents.
 
+### Week 2 Progress
+
+* Successfully set up the Backstage Community Plugins project locally by forking the repository and configuring the development environment.
+* Analyzed the Todo plugin architecture and reviewed all related components to understand the current implementation.
+* Studied existing BUI (Backstage UI) migration examples and repository guidelines to identify the recommended migration patterns.
+* Currently performing a detailed analysis of the Todo plugin to understand component behavior, dependencies, and migration requirements before applying changes.
+* Investigating UI behavior, table functionality, filtering, sorting, pagination, and tooltip handling to ensure feature parity during the migration process.
+
 ### Code Changes
 
 - **Files modified:** In progress
