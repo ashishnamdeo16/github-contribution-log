@@ -6,6 +6,25 @@
 **Status:** Phase I - In Progress
 
 ---
+Current Progress 
+
+Things that are completed 
+1 ) — Migrated MUI Link to BUI link 
+Working on the rest of the Other Components
+Still need time to understand and migrate the whole module completely 
+
+## Components Not Migrated (Known Limitations)
+
+- **`OverflowTooltip`**: No BUI equivalent for text truncation tooltips. 
+  BUI `TooltipTrigger` requires interactive triggers (Button, ButtonIcon). 
+  Kept from `@backstage/core-components`.
+
+- **`ResponseErrorPanel`**: BUI `Alert` lacks the expandable dropdown, 
+  stack trace display, copy buttons, and retry functionality. 
+  Attempting to rebuild it with BUI `Alert` + custom hooks causes 
+  React hooks violations. Kept from `@backstage/core-components`.
+
+---
 
 ## Why I Chose This Issue
 
