@@ -13,6 +13,10 @@ Things that are completed
 Working on the rest of the Other Components
 Still need time to understand and migrate the whole module completely 
 
+2) Migrated MUI Table to BUI Table
+- It was a little big change, so doing it carefully because it has multiple logics for sorting as well as searching
+- Also, testing it end-to-end to make sure everything is working perfectly fine or not
+
 ## Components Not Migrated (Known Limitations)
 
 - **`OverflowTooltip`**: No BUI equivalent for text truncation tooltips. 
