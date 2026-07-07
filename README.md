@@ -17,6 +17,16 @@ Still need time to understand and migrate the whole module completely
 - It was a little big change, so doing it carefully because it has multiple logics for sorting as well as searching
 - Also, testing it end-to-end to make sure everything is working perfectly fine or not
 
+Current Progress
+I have completed the whole migration. However, I identified some issues with the search logic and am currently working on resolving them. I will try to complete the fixes by the end of this week.
+
+Older Version
+<img width="1434" height="664" alt="Screenshot 2026-06-28 at 10 32 59 PM" src="https://github.com/user-attachments/assets/7c9fa253-787c-4f47-a14d-53392666e86b" />
+
+Newer Version
+<img width="1438" height="670" alt="Screenshot 2026-07-06 at 8 05 22 PM" src="https://github.com/user-attachments/assets/516718ce-f941-485e-bfd6-301837a59c02" />
+
+
 ## Components Not Migrated (Known Limitations)
 
 - **`OverflowTooltip`**: No BUI equivalent for text truncation tooltips. 
