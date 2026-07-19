@@ -13,6 +13,8 @@ https://github.com/backstage/community-plugins/issues/7531
 
 **Pull Request:** https://github.com/backstage/community-plugins/pull/9793
 
+Resolved Review comments and waiting for the reviewer's response   
+
 ## Progress Summary
 
 The migration of the Todo plugin from Material UI (MUI) to Backstage UI (BUI) has been completed successfully. The Pull Request has been submitted to the Backstage Community Plugins repository and is currently awaiting maintainer review and approval.
