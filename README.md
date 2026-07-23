@@ -62,7 +62,7 @@ The plugin relied heavily on:
 - Started the plugin dev app: `yarn start` from `plugins/todo`
 - Verified the Todo plugin rendered correctly before making changes
 
-Challenges encountered:
+**Challenges Faced:**
 
 - The plugin-only workspace requires running commands from `workspaces/todo/`, not the repository root
 - Dev app initially failed with `Missing required config value at 'app.title'` — resolved locally with a dev-only `app-config.yaml` (not included in the PR)
